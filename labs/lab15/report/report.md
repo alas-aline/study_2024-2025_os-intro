@@ -68,7 +68,7 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
-# Задания
+# Вопросы
 
 * Что такое CDMA?
 * Как это работает?
