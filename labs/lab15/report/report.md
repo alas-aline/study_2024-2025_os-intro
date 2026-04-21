@@ -58,6 +58,7 @@ figureTitle: "Рис."
 tableTitle: "Таблица"
 listingTitle: "Листинг"
 lofTitle: "Список иллюстраций"
+lotTitle: "Список таблиц"
 lolTitle: "Листинги"
 ## Misc options
 indent: true
